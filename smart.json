@@ -1,6 +1,6 @@
 {
     "name": "quick-filter",
-    "description": "Simple quick filter",
+    "description": "Simple meteor quick filter using Subscription manager and publish count",
     "homepage": "http://datalinkdigital.com",
     "author": "datalink digital",
     "version": "0.0.1",
