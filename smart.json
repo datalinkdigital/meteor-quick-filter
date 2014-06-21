@@ -3,7 +3,7 @@
     "description": "Simple meteor quick filter using Subscription manager and publish count",
     "homepage": "http://datalinkdigital.com",
     "author": "datalink digital",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "git": "https://github.com/datalinkdigital/meteor-quick-filter.git",
     "packages": {}
 }
